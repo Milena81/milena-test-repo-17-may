@@ -1,4 +1,4 @@
-tova sa testove
+tova sa testove za zadacha na C# Programming Basic
 
 123
 1.2
