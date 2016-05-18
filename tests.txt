@@ -1,4 +1,4 @@
-tova sa testove za zadacha na C# Programming Basic
+Tova sa testove za zadacha na C# Programming Basic
 
 123
 1.2
@@ -6,7 +6,7 @@ tova sa testove za zadacha na C# Programming Basic
 15
 2000
 
-Tova e vtori test
+A tova e vtori test 
 
 4455
 1.223446335689
